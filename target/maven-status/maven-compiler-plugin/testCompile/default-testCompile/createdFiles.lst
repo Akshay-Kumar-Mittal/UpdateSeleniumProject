@@ -1,0 +1,6 @@
+pageObjects\SlideTeamLoginPageObjects.class
+testRunner\SlideTeam_Login_TC_1.class
+pageObjects\SlideTeamHomePageObjects.class
+utils\SeleniumMethods.class
+utils\BaseTest.class
+pageObjects\SlideTeamPricingPageObjects.class
